@@ -55,8 +55,14 @@ El programa realiza las siguientes tareas:
 
 ## 🤝 Integrantes
 
-#Trabajo realizado por Alejandro Farfan, Ayelen Etchegoyen, Veronica Falconi, Walter Frias y Yohanna Díaz Monroy, como parte del proyecto integrador de Matemática y Programación.
+#Trabajo realizado por 
+Alejandro Farfan
+Ayelen Etchegoyen
+Veronica Falconi
+Walter Frias 
+Yohanna Díaz Monroy
 
+📽️ link video : 
 ## comsion 13
 
 
